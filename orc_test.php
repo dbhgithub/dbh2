@@ -1,6 +1,7 @@
 <?php
 //First comment
 //Second comment
+//Tercer comment
 // Connects to the XE service (i.e. database) on the "localhost" machine
 $conn = oci_connect('dbhsys', 'dbhsys', 'localhost/XE');
 if (!$conn) {
