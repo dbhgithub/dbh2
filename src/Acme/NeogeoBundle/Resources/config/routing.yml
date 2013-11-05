@@ -1,0 +1,4 @@
+acme_neogeo_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: AcmeNeogeoBundle:Default:index }
+
